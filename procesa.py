@@ -18,7 +18,7 @@ def procesa(operacion, operando1, operando2=1):
 
 
 def suma(a, b):
-    x = "noseusa"  # comentar / descomentar para pruebas
+    # x = "noseusa" comentar / descomentar para pruebas
     return a + b
 
 
