@@ -23,7 +23,7 @@ def suma(a, b):
 
 
 def resta(a, b):
-    return a - -b  # error para pruebas
+    return a + -b  # error para pruebas
 
 
 def divide(a, b):
